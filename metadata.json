@@ -1,0 +1,6 @@
+{
+  "name": "Taskflow — Smart To-Do List",
+  "description": "A full-stack smart task management and productivity dashboard powered by React, Express, and MongoDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
